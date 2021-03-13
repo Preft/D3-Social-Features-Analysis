@@ -1,3 +1,12 @@
 # D3_data_journalism
 
-Interactive graph on sociology groups.
+### Comparing Social Features
+
+This page displays an interactive graph that looks the percentage of those with healthcare, those who smoke, and those who are obese against the percentage of those in poverty, the median age, and the median household income.
+
+# Link to Page
+https://preft.github.io/D3-Social-Features-Analysis/
+
+# Visual Example:
+
+![](assets/images/SocialGraphExample.png)
